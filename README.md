@@ -17,5 +17,8 @@ LightGBM Model Transform
 
 
 Prerequisites
+
 LightGBM 2.0.0 or newer.
+
 Python 3.6 or newer.
+
