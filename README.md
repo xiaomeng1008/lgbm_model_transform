@@ -1,4 +1,4 @@
-LightGBM Model Transform
+1、LightGBM Model Transform
 
   LightGBM Model is usually deployed through Java for efficiency in production. We trans Model Model to form like this:
   
@@ -19,13 +19,13 @@ LightGBM Model Transform
 
 
 
-Prerequisites
+2、Prerequisites
 
 LightGBM 2.0.0 or newer.
 
 Python 3.6 or newer.
 
-Usage
+3、Usage
 
 please execute command like this: python main.py input_model.txt output_model.txt cate_feature_index
     eg.   please execute command like this: python main.py lgbm_model.txt lgbm_model_new.txt 2,5,8
