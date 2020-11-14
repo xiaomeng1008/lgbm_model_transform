@@ -28,4 +28,5 @@ Python 3.6 or newer.
 3、Usage
 
 please execute command like this: python main.py input_model.txt output_model.txt cate_feature_index
+
     eg.   please execute command like this: python main.py lgbm_model.txt lgbm_model_new.txt 2,5,8
