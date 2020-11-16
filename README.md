@@ -1,6 +1,6 @@
 1、LightGBM Model Transform
 
-  LightGBM Model is usually deployed through Java for efficiency in production. We trans Model Model to form like this:
+  LightGBM Model is usually deployed through Java for efficiency in production. We trans Model to form like this:
   
     Tree 0
     
